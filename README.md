@@ -2,6 +2,12 @@
 
 # 🛍️ Mall Customer Segmentation
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?style=for-the-badge&logo=scikit-learn)
+![Best Accuracy](https://img.shields.io/badge/Best%20Accuracy-95.91%25-gold?style=for-the-badge)
+![Models](https://img.shields.io/badge/Models-7-blueviolet?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 Unsupervised machine learning project that segments mall customers based on their **Annual Income** and **Spending Score** using two clustering approaches — **K-Means** and **Hierarchical (Agglomerative) Clustering**.
 
 ---
